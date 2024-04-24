@@ -11,7 +11,7 @@ header {
 }
 
 main {
-    max-width: 800px;
+    max-width: 900px;
     margin: 20px auto;
 }
 
@@ -20,7 +20,7 @@ article {
 }
 
 .small-image {
-    width: 70%; /* You can adjust this percentage to make the image smaller or larger */
+    width: 90%; /* You can adjust this percentage to make the image smaller or larger */
     height: auto; /* This maintains the aspect ratio of the image */
 }
 
